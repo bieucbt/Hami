@@ -1,0 +1,26 @@
+header
+    +contact, login/register, language
+    +logo, nav, chat
+main
+    -banner
+    -search
+    -Features
+    -hosting
+    -domain
+footer
+
+
+section
+    padd: 100 0
+    .container
+       width
+
+        .row
+            flex
+            margin: 0 -15
+
+            col-6
+            width 50%
+
+
+
